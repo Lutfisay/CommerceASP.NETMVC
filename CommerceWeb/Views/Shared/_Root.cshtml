@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+//lütficansay.com
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <section class="mainWrapper">
+        <header id="mainHeader" class="mainHeaderWrapper">
+            <nav>
+                @Html.Action("CategoryList","Category")
+            </nav>
+        </header>
+        <section id="mainContent" class="mainContentWrapper">
+            
+            @RenderBody()
+         </section>
+        <footer id="mainFooter" class="mainFooterWrapper"></footer>
+    </section>
+</body>
+</html>

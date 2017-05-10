@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommerceWeb", "CommerceWeb\CommerceWeb.csproj", "{D544EEAD-00F3-4A12-9FA2-5FB6CF6DE1AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommerceCore", "CommerceCore\CommerceCore.csproj", "{7FE8207F-6CE1-4221-A6D8-BFB1FB10E188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommerceData", "CommerceData\CommerceData.csproj", "{054DB4FF-DCBE-4518-8B08-B545A0E263FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D544EEAD-00F3-4A12-9FA2-5FB6CF6DE1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D544EEAD-00F3-4A12-9FA2-5FB6CF6DE1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D544EEAD-00F3-4A12-9FA2-5FB6CF6DE1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D544EEAD-00F3-4A12-9FA2-5FB6CF6DE1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE8207F-6CE1-4221-A6D8-BFB1FB10E188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE8207F-6CE1-4221-A6D8-BFB1FB10E188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE8207F-6CE1-4221-A6D8-BFB1FB10E188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE8207F-6CE1-4221-A6D8-BFB1FB10E188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{054DB4FF-DCBE-4518-8B08-B545A0E263FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054DB4FF-DCBE-4518-8B08-B545A0E263FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054DB4FF-DCBE-4518-8B08-B545A0E263FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054DB4FF-DCBE-4518-8B08-B545A0E263FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

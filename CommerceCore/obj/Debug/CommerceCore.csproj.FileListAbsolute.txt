@@ -1,0 +1,5 @@
+c:\users\lütfi can say\documents\visual studio 2015\Projects\Commerce\CommerceCore\bin\Debug\CommerceCore.dll
+c:\users\lütfi can say\documents\visual studio 2015\Projects\Commerce\CommerceCore\bin\Debug\CommerceCore.pdb
+c:\users\lütfi can say\documents\visual studio 2015\Projects\Commerce\CommerceCore\obj\Debug\CommerceCore.csprojResolveAssemblyReference.cache
+c:\users\lütfi can say\documents\visual studio 2015\Projects\Commerce\CommerceCore\obj\Debug\CommerceCore.dll
+c:\users\lütfi can say\documents\visual studio 2015\Projects\Commerce\CommerceCore\obj\Debug\CommerceCore.pdb
